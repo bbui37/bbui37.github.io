@@ -13,9 +13,9 @@ Unlike dogs, domesticated cats were nearly identical to their wild counterparts 
 Differences in domestic cat breeds are usually subtle, compared to dog breeds and are typically identified from phsyical characteristics. These characteristics include color, coat pattern, body size, or hair length. Some examples of how cat breeds are identified are "black", "orange tabby", "longhaired", "shorthaired". The varying coat colors of domestic cats come from mutation. However, all domestic cats are tabbies by genetics, as they have genes for one or more of tabby patterns. These patterns include the classic (blotched) tabby, mackerel tabby, ticked tabby, and spotted.
 
 ## See also
-[cats as pets](https://www.britannica.com/topic/cats-as-pets)
-[dog](https://www.britannica.com/animal/dog)
-[domestic shorthair](https://www.britannica.com/animal/domestic-shorthair)
+- [cats as pets](https://www.britannica.com/topic/cats-as-pets)
+- [dog](https://www.britannica.com/animal/dog)
+- [domestic shorthair](https://www.britannica.com/animal/domestic-shorthair)
 
 ## References
 1. https://www.britannica.com/animal/cat
